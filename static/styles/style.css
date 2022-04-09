@@ -1,0 +1,96 @@
+body, html{
+    padding: 0 0;
+    margin: 0 0;
+    }
+
+.header{
+    display: flex;
+    margin-top: 15px;
+    border-bottom: 4px solid rgb(172, 7, 7);
+}
+
+.select{
+    display: flex;
+    font-family: 'Kankin', sans-serif;
+    color: rgb(158, 157, 157);
+    margin-top: -26px;
+}
+
+.logo{
+    height: 85px;
+}
+
+.logoLink{
+    margin-left: 18%;
+}
+
+.oflc{
+    font-family: 'Kankin', sans-serif;
+    height: 75px;
+    margin-top: 5px;
+    color: rgb(158, 157, 157);
+}
+
+.text{
+    margin: 0px;
+    margin-left: 22px;
+}
+
+.linkButton1{
+    margin-left: 15px;
+    font-size: 31px;
+    padding: 20px;
+    padding-left: 40px;
+    border-left: 4px solid rgb(172, 7, 7);
+}
+
+.linkButton2{
+    font-size: 31px;
+    padding: 20px;
+}
+
+.linkButton3{
+    font-size: 31px;
+    padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    color: #fff;
+    width: 82%;
+    border-top: 4px solid rgb(150, 147, 147);
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 116px;
+    height: 150px;
+}
+
+.footer-inside{
+    display: flex;
+    color: rgb(158, 157, 157);
+    font-family: 'Kankin', sans-serif;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-70%);
+    font-size: 20px;
+}
+
+.recroll{
+    height: 5px;
+    width: 20px;
+}
+
+.oflc-logo{
+    margin-top: 7%;
+    height: 100px;
+}
+
+.sections{
+    padding-right: 35%;
+}
+
+.other{
+    padding-left: 35%;
+}
