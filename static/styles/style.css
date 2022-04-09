@@ -34,13 +34,14 @@ body, html{
 .text{
     margin: 0px;
     margin-left: 22px;
+    margin-right: 10px;
 }
 
 .linkButton1{
     margin-left: 15px;
     font-size: 31px;
     padding: 20px;
-    padding-left: 40px;
+    padding-left: 30px;
     border-left: 4px solid rgb(172, 7, 7);
 }
 
@@ -73,8 +74,38 @@ body, html{
     font-family: 'Kankin', sans-serif;
     position: absolute;
     left: 50%;
-    transform: translateX(-70%);
+    transform: translateX(-55%);
     font-size: 20px;
+}
+
+.section1{
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 17px;
+    color: rgb(68, 68, 68);
+}
+
+.section2{
+    margin-bottom: 0px;
+}
+
+.section3{
+    margin-top: 5px;
+}
+
+.other1{
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 17px;
+    color: rgb(68, 68, 68);
+}
+
+.other2{
+    margin-bottom: 0px;
+}
+
+.other3{
+    margin-top: 5px;
 }
 
 .recroll{
@@ -83,14 +114,14 @@ body, html{
 }
 
 .oflc-logo{
-    margin-top: 7%;
-    height: 100px;
+    margin-top: 3%;
+    height: 130px;
 }
 
 .sections{
-    padding-right: 35%;
+    padding-right: 20%;
 }
 
 .other{
-    padding-left: 35%;
+    padding-left: 20%;
 }
